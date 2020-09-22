@@ -1,3 +1,3 @@
-MPI_CUDA
+CUDA+MPI
 
-MPI+CUDA平方计算
+CUDA+MPI平方计算
